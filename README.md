@@ -32,3 +32,8 @@ El proyecto utiliza ramas de trabajo, commits convencionales, Issues, Pull Reque
 ## Seguridad
 
 El proyecto tiene fines educativos. No se recomienda almacenar contraseñas reales hasta implementar y verificar las medidas de seguridad necesarias.
+## Flujo de trabajo
+
+El desarrollo se organiza mediante ramas de Git, commits convencionales, Issues y Pull Requests en GitHub.
+
+Las nuevas funcionalidades se desarrollan en ramas independientes y se integran en `develop` después de revisar los cambios.
