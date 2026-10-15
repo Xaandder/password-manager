@@ -25,9 +25,7 @@ Crear una aplicación que permita generar contraseñas seguras y, en futuras ver
 
 En desarrollo.
 
-## Buenas prácticas
 
-El proyecto utiliza ramas de trabajo, commits convencionales, Issues, Pull Requests y pruebas automatizadas.
 
 ## Seguridad
 
