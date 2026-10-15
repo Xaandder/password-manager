@@ -1,0 +1,28 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Variables de entorno y secretos
+.env
+.env.*
+!.env.example
+
+# Editores
+.vscode/
+.idea/
+
+# Pruebas
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
